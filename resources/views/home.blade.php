@@ -12,7 +12,7 @@
 	<h2>Formulaire</h2>
 	<p>Vous pouvez vous inscrire pour demander l'un des services suivants :</p>
 	<ul>
-		<li>Lister les service</li>
+		<li>Lister les servic</li>
 	</ul>
     </body>
 </html>
